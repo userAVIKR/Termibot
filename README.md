@@ -1,4 +1,4 @@
-# Chatbot
+# Termibot
 
 A simple terminal-based chatbot using `langchain_ollama` and `OllamaLLM`.  
 
